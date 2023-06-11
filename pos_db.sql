@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 11, 2023 at 02:27 PM
+-- Generation Time: Jun 11, 2023 at 02:42 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.1.12
 
@@ -93,7 +93,7 @@ INSERT INTO `pulsa` (`kode`, `nama`, `Operator`, `nominal`, `Harga`) VALUES
 ('PL15', 'XL 100.000', 'XL ', 100000, 102000),
 ('PL16', 'Tri 5.000', 'Tri', 5000, 7000),
 ('PL17', 'Tri 10.000', 'Tri', 10000, 12000),
-('PL18', 'Tri 20.000', 'Tri', 20, 22000),
+('PL18', 'Tri 20.000', 'Tri', 20000, 22000),
 ('PL19', 'Tri 50.000', 'Tri', 50000, 52000),
 ('PL2', 'Telkomsel 10.000', 'Telkomsel', 10000, 12000),
 ('PL20', 'Tri 100.000', 'Tri', 100000, 102000),
